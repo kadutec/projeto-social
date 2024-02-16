@@ -15,6 +15,7 @@ img {
 
 a {
     display: block;
+    color: white;
     background-color: darkred;
     padding: 20px;
     text-align: center;
